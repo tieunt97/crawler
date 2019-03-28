@@ -1,0 +1,552 @@
+[
+  {
+    "pos": 1,
+    "name": "Dragon Airport Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/200q0d0000006wlze7616_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-2510947/dragon-airport-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=1&position=1&minprice=22&mproom=103735200&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK5OIV-A8DjBKMQkwcjFI-HAv27zY0ULD4Juj4yGHx-SSnJAdP1ry7Zy-LpjgE8ExiFOJkAAKTtwqOgiDGAhtZxxmMjxfMZNzIqH5p0WN-c12HHYxMBxiZTjCKSSmYmViaGCemJpqmJJmZpBiZJRmaGBgZG1skWqQkpRqYWGh873jwhNWIwYMxiM3YydnA1CJKhos5zM9FcKfwRLaYP0b2UsyhwS6KYbXrtiXdl3JIYi3L1A3zywgqYAQA-gqz68AAAAA(&pnotax=6_718150000;146_0745619&from_page=list&module=list&pctoken=bc57cc592ed34eaa94327e6e8979f08b&ltracelogid=64943aea5db64d26b1402338a8dbe048&link=title#ctm_ref=lst_n_1_1",
+    "score": 4,
+    "price": 22,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 2,
+    "name": "Parkside Sunline Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/fd/hotel/g1/M00/19/F0/CghzfVS82xGAILUoABz9SwDvlIg742_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-2507647/parkside-sunline-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=1&position=2&minprice=36&mproom=120952623&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK5OIV-A8DjBKMQkwcjFI-HOvXXbM0ULD4JugY9cH921qWPAfPraZKEs9DCx0CeCYxCnEyAME3c11HQRCjK0fTcQbj_7aZjBsZHd98fN4wx8lhByPTAUamE4wqUgpmJpYmxompiaYpSWYmKUZmSYYmBkbGxhaJFilJqQYmFhrfOx48YTVi8GAMYnM0d3OzNI6S4WIO83MR3Ck8kS3mj5G9FHNosItiWO26bUn3pRySWMsydcP8MoIKGAEwu2c5wAAAAA((&pnotax=6_718150000;240_1462356&from_page=list&module=list&pctoken=287b372e87334ea4814d5b38fa3ffc62&ltracelogid=64943aea5db64d26b1402338a8dbe048&link=title#ctm_ref=lst_n_1_2",
+    "score": 4.5,
+    "price": 36,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 3,
+    "name": "Sunny Hotel 1",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/200l090000004887484F6_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-712914/sunny-hotel-1/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=1&position=3&minprice=38&mproom=48204365&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK4eIV-A8DjBKMQkwcjFL-HGen_BOT2LTj1jEWi9-CjqK33-n3XMh38Gzfr5adkljkEMAziVGIc0mBLdf1x64Oggwg4ODqMIPx0kHtjYzyBvwzP51wdtjByHSAkekEo5qUgpmJpYlxYmqiaUqSmUmKkVmSoYmBkbGxRaJFSlKqgYmFxveOB09YjRg8GIPYzJ3cLE3No2S4mEODXQTDatdtS7ov5SAF4inCeEmsZZm6YX4ZQQWMAOwfsRPDAAAA&pnotax=6_718150000;254_5171127&from_page=list&module=list&pctoken=20bc816a80b441f9ab74da0fa4973acf&ltracelogid=64943aea5db64d26b1402338a8dbe048&link=title#ctm_ref=lst_n_1_3",
+    "score": 4.4,
+    "price": 38,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 4,
+    "name": "Hanoi Nostalgia Hotel & Spa",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/20090n000000e33755F44_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-11873229/hanoi-nostalgia-hotel-and-spa/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=8&page=1&position=4&minprice=54&mproom=284417772&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAOPK5uIV-A8DjBKMQkwcjFJhHG_2nm9nlLj0_M1dZg0ug7nsFrOiHZOmf8oudSpz8JRjEbWxmlnpEMAziVGIM6b_0FeNGj8HwR1yra8DZ_g6zGA8e_0K60bGJqmqRrVtXg47GJkOMDKdYDSTUjAzsTQxTkxNNE1JMjNJMTJLMjQxMDI2tki0SElKNTCx0Pje8eAJqxGDB2MQm7ORgZuzaZQMF3NosItgWO26bUn3pRykQDxFGC-JtSxTN8wvI6iAEQA3GTLgygAAAA((&pnotax=6_718150000;356_1536674&from_page=list&module=list&pctoken=aee8ad600bb14c45b6dda76e4ec4198c&ltracelogid=64943aea5db64d26b1402338a8dbe048&link=title#ctm_ref=lst_n_1_4",
+    "score": 4.7,
+    "price": 54,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 5,
+    "name": "Vision Premier Hotel & Spa",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/220c0v000000jt0u4F388_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-2506742/vision-premier-hotel-and-spa/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=2&position=13&minprice=120&mproom=175450116&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK5OIV-A8DjBKMQkwcjFI-HC0XrgQbKFh8E3RUaGLt5hPtdPDcIdf6OvBHj0MAzyRGIU4GEMjycBQE0QF2ro4zGL_9n8G4kfHwkz_M0lLxDjsYmQ4wMp1grJBSMLRMTDYyMTA0sjA2Nkk0MbGwMDc2TUpJMk5OMjY3SknS-Nnx4AmrEYMHYxCbsaGxmZthlAwXc5ifi-BO4YlsMX-M7KWYQ4NdFMNq121Lui_lkMRalqkb5pcRVMAIANebHGHAAAAA&pnotax=6_718150000;802_6321011&from_page=list&module=list&pctoken=a2f76ba653774e65b05b9f0c925275ad&ltracelogid=19ac240128334a4488735bdb3cb372db&link=title#ctm_ref=lst_n_2_13",
+    "score": 4.6,
+    "price": 120,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 6,
+    "name": "Khách sạn Adamas Hanoi",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/220q0g0000007zoik5A50_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-2192556/adamas-hanoi-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=2&position=14&minprice=109&mproom=134495982&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK5OIV-A8DjBKMQkwcjFI-HO_-TnAwULD4Juj458yWCNHdbQ6e1xcX2HI5djkE8ExiFOJkAAIBBTdHQSDdUOHg7DiDcc3LVsaNjLe23VNdrh_jsIOR8QAj4wnGXCkFQ8vEZCMTA0MjC2Njk0QTEwsLc2PTpJQk4-QkY3OjlCSNnx0PnrAaMXgwBrEZmVtaWDhFyXAxh_m5CO4UnsgW88fIXoo5NNhFMax23bak-1IOSaxlmbphfhlBBYwAaIYwAMAAAAA(&pnotax=6_718150000;727_3854231&from_page=list&module=list&pctoken=e2fc51584c52414f8f9d3f9ac455330c&ltracelogid=19ac240128334a4488735bdb3cb372db&link=title#ctm_ref=lst_n_2_14",
+    "score": 4.2,
+    "price": 109,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 7,
+    "name": "Binh Anh Hotel Hanoi",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/20040h0000008vjnp6426_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-6164582/binh-anh-hotel-hanoi/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=2&position=15&minprice=42&mproom=133637797&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK5OIV-A8DjBKMQkwcjFI-HEvP3rE3ULD4JuhYPFv0W6VdoYOnfOvrwB2vih0CeCYxCnEyAMGDEwaOgiDGOlNdxxmMzxb8YNrImOC7_t6nRFeHHYxMBxiZTjBqSSkYWiYmG5kYGBpZGBubJJqYWFiYG5smpSQZJycZmxulJGn87HjwhNWIwYMxiM3MwsDJxDJKhos5zM9FcKfwRLaYP0b2UsyhwS6KYbXrtiXdl3JIYi3L1A3zywgqYAQADLDsvcAAAAA(&pnotax=6_718150000;275_9047757&from_page=list&module=list&pctoken=924ad9ecbac64a4180160e51cff46c1b&ltracelogid=19ac240128334a4488735bdb3cb372db&link=title#ctm_ref=lst_n_2_15",
+    "score": 4.7,
+    "price": 42,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 8,
+    "name": "Phoenix Palace Hotel Hanoi",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/200h0x000000litxsE8AC_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-712793/phoenix-palace-hotel-hanoi/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=2&position=16&minprice=40&mproom=223209314&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK4OIV-A8DjBKMQkwcjFLeHI_Obc8yULD4JujoEt-tfia_wMGz48vt64x_ihwCeCYxCnEyAEHGf31HQRBj2nVtxxmMNw9ob2SUW9XStDbRxWEHI9MBRqYTjBpSCoaWiclGJgaGRhbGxiaJJiYWFubGpkkpScbJScbmRilJGj87HjxhNWLwYAxiczEzNXC0jJLhYg7zcxHcKTyRLeaPkb0Uc2iwi2JY7bptSfelHJJYyzJ1w_wyggoYAfdf2e2_AAAA&pnotax=6_718150000;262_9873424&from_page=list&module=list&pctoken=db5f3f8cf6b6426d89f2b17d61d9ff93&ltracelogid=19ac240128334a4488735bdb3cb372db&link=title#ctm_ref=lst_n_2_16",
+    "score": 4.6,
+    "price": 40,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 9,
+    "name": "Anova Airport Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/220w0r000000h36tf110A_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-9628652/anova-airport-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=2&position=17&minprice=20&mproom=105820349&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK5OIV-A8DjBKMQkwcjFI-HHsf7jIyULD4Jug4dZL-pnW-CQ6eP4IfL519JckhgGcSoxAnAwjslXcUBNEX5ko7zmB8c_00y0ZGCe55c9PNTRx2MDIeYGQ8wSgipWBomZhsZGJgaGRhbGySaGJiYWFubJqUkmScnGRsbpSSpPGz48ETViMGD8YgNjNTF0cXkygZLuYwPxfBncIT2WL-GNlLMYcGuyiG1a7blnRfyiGJtSxTN8wvI6iAEQAWB2zwwAAAAA((&pnotax=6_718150000;130_4275752&from_page=list&module=list&pctoken=5d09c055f5164a8093436e2a646bf455&ltracelogid=19ac240128334a4488735bdb3cb372db&link=title#ctm_ref=lst_n_2_17",
+    "score": 4.4,
+    "price": 20,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 10,
+    "name": "Luxury Old Quarter Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/220i0r000000hayxy2437_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-6648417/luxury-old-quarter-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=2&position=18&minprice=47&mproom=104673773&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK5OIV-A8DjBKMQkwcjFI-HG8ffzE0ULD4Jug4PSBNo3hGsYMnAwgsKnMI4JnEKMQJ4lwQMnYUBDHWzTBwnMH48MlU5o2MHtVn96T5eDjsYGQ6wMh0glFfSsHQMjHZyMTA0MjC2Ngk0cTEwsLc2DQpJck4OcnY3CglSeNnx4MnrEYMHoxBbC4uTsbGBlEyXMxhfi6CO4UnssX8MbKXYg4NdlEMq123Lem-lEMSa1mmbphfRlABIwAxHMNOwAAAAA((&pnotax=6_718150000;313_5281147&from_page=list&module=list&pctoken=5f71f5cfd9724cbab0877f03fd236206&ltracelogid=19ac240128334a4488735bdb3cb372db&link=title#ctm_ref=lst_n_2_18",
+    "score": 4.7,
+    "price": 47,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 11,
+    "name": "Nesta Hanoi Hotel - to Hien Thanh",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/220p0m000000dkjlzD310_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-707252/nesta-hanoi-hotel-to-hien-thanh/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=2&position=19&minprice=36&mproom=134311753&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK4OIV-A8DjBKMQkwcjFLeHCfvtToYKFh8E3Sce6aznfFkroOnLdf1xQXGhQ4BPJMYhTgZgODBXx1HQRDjn6Wm4wzGLVO1NzJWyE9kqC93ctjByHSAkekEo4qUgqFlYrKRiYGhkYWxsUmiiYmFhbmxaVJKknFykrG5UUqSxs-OB09YjRg8GIPYzC3MDAydomS4mMP8XAR3Ck9ki_ljZC_FHBrsohhWu25b0n0phyTWskzdML-MoAJGAApfsnS_AAAA&pnotax=6_718150000;238_2814367&from_page=list&module=list&pctoken=23c1be4a45f04936be47f978cd193bd3&ltracelogid=19ac240128334a4488735bdb3cb372db&link=title#ctm_ref=lst_n_2_19",
+    "score": 4.7,
+    "price": 36,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 12,
+    "name": "Hanoi Legacy Hotel - Hang Bac",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/2n0m0i00000099dtv2826_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-993493/hanoi-legacy-hotel-hang-bac/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=2&position=20&minprice=46&mproom=104389556&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK4OIV-A8DjBKMQkwcjFLeHFu2PzY0ULD4Juh4tDf6jL5HsYPnvPfLj3m7ljkE8ExiFOJkAIINR4wcBUGMLSEGjjMYr1602ch4mC_50v0X7g47GJkOMDKdYNSTUjC0TEw2MjEwNLIwNjZJNDGxsDA3Nk1KSTJOTjI2N0pJ0vjZ8eAJqxGDB2MQm6uLuaGhUZQMF3OYn4vgTuGJbDF_jOylmEODXRTDatdtS7ov5ZDEWpapG-aXEVTACADDEzVdvwAAAA((&pnotax=6_718150000;308_5116695&from_page=list&module=list&pctoken=7804e2762b844054aedd620f2e834ad2&ltracelogid=19ac240128334a4488735bdb3cb372db&link=title#ctm_ref=lst_n_2_20",
+    "score": 4.4,
+    "price": 46,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 13,
+    "name": "Hanoi Serendipity Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/220i0r000000hb1uiD384_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-2504226/hanoi-serendipity-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=3&position=21&minprice=29&mproom=144571995&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK5eIV-A8DjBKMQkwcjFIBHLf_fHeR2HTr2V1mi9-Cjudv33hz4mW6g2efwq___-dnOwTwTGIU4jQGgWIHB0EIw95hBuOiNzMYNzJ2KVrO3LHR1mEHI9MBRqYTjLJSCmbmFibmxmbJlsaGaSZmZsYWBkYGpobGaRamKSmGJuaGGn87HjxhNWLwYAxiMzU0N3M0jZLhYg4NdhEMq123Lem-lIMUiKcI4yWxlmXqhvllBBUwAgCJyaD9xAAAAA((&pnotax=6_718150000;191_305777&from_page=list&module=list&pctoken=729cc141555d4b96966e08903198824c&ltracelogid=6784736c931f46638020513f85dd1471&link=title#ctm_ref=lst_n_3_21",
+    "score": 4.5,
+    "price": 29,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 14,
+    "name": "Blue Hanoi Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/200r0e0000006zynb88A8_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-6434968/blue-hanoi-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=8&page=3&position=22&minprice=36&mproom=175044884&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONaysjFK_AfBhglGIWYOBil-hk5pnzaHWzxW9BxelN9tOPmXAfPapF17g_VCh0CeAoZQMCh0KGRkUm7Xeymba7DJEYXTpDgg782joIgxowlFo5KBhxvms0FRCRe_8jWhOkxhDEsYh3XbUuqB-n2hDFmMM542MG8kfH9ob3nWbKcHHYwMh1gZDrBqCKlYGZuYWJubJZsaWyYZmJmZmxhYGRgamicZmGakmJoYm6o8bfjwRNWIwYPxiA2J0s3I2ODKBku5jA_F8GdwhPZYv4Y2Usxhwa7KIbVAi27L-WQxFqWqRvmlxFUwAgA7tf4fwUBAAA(&pnotax=6_718150000;237_6017282&from_page=list&module=list&pctoken=2fdaff5c2ae246618f768760ef199147&ltracelogid=6784736c931f46638020513f85dd1471&link=title#ctm_ref=lst_n_3_22",
+    "score": 4.8,
+    "price": 36,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 15,
+    "name": "Hanoi Impressive Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/220d0t000000iknfj6363_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-712484/hanoi-impressive-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=8&page=3&position=23&minprice=43&mproom=328992393&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAOPK4uIV-A8DjBKMQkwcjFKhHJ29H-YwSlx6_uYuswaXwVx2i1nRjl_3-eRXXS508Iw35WBgaChxCOCZxCjEqRnTf-hrhoeDIIjWkHFzmMG4ZJ_2RsazTjNbdVJcHXYwMh1gZDrBqC2lYGZuYWJubJZsaWyYZmJmZmxhYGRgamicZmGakmJoYm6o8bfjwRNWIwYPxiA2V2dHU0enKBku5tBgF8Gw2nXbku5LOUiBeIowXhJrWaZumF9GUAEjAPFwGVfJAAAA&pnotax=6_718150000;285_2173913&from_page=list&module=list&pctoken=b4bcdd9c0a04482fb913715e43b5cca8&ltracelogid=6784736c931f46638020513f85dd1471&link=title#ctm_ref=lst_n_3_23",
+    "score": 4.8,
+    "price": 43,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 16,
+    "name": "Hanoi Guest House Royal",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/220b0y000000m028v08E4_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-2507527/hanoi-guest-house-royal/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=3&position=28&minprice=226&mproom=103264571&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK4uIV-A8DjBKMQkwcjFK-HLsfzTM0ULD4Juh4JpPVZv7C6Q6eJ2ym-wV4z3YI4JnEKMTJAARlDOGOgkD6wE7mEMcZjO1tMxk3Mt6b3jelwzfXYQcj0wFGphOMjxilFMzMLUzMjc2SLY0N00zMzIwtDIwMTA2N0yxMU1IMTcwNNf52PHjCasTgwRjEZuBkYGxgECXDxRzm5yK4U3giW8wfI3sp5tBgF8Ww2nXbku5LOSSxlmXqhvllBBUwAgDGwWPowQAAAA((&pnotax=6_718150000;1512_4055024&from_page=list&module=list&pctoken=b8dd04b9523e41fc9e379aa85983f813&ltracelogid=6784736c931f46638020513f85dd1471&link=title#ctm_ref=lst_n_3_28",
+    "score": 4.9,
+    "price": 226,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 17,
+    "name": "Blue Pearl West Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/220h0r000000hdhka2C0D_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-8040704/blue-pearl-west-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=3&position=29&minprice=29&mproom=107262960&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK5OIV-A8DjBKMQkwcjFI-HB-eTzI2ULD4Jui41NycUfFPuoNnwtMLSrc3ZzsE8ExiFOJkAIIJEeqOgiBGUoCK4wzGhkevmDcy3sk9y3Nxr63DDkamA4xMJxhlpRTMzC1MzI3Nki2NDdNMzMyMLQyMDEwNjdMsTFNSDE3MDTX-djx4wmrE4MEYxObiZupqYRglw8Uc5uciuFN4IlvMHyN7KebQYBfFsNp125LuSzkksZZl6ob5ZQQVMAIAIAF4qcAAAAA(&pnotax=6_718150000;191_8790289&from_page=list&module=list&pctoken=4c77c1c9f3544afab39ba09daff30e44&ltracelogid=6784736c931f46638020513f85dd1471&link=title#ctm_ref=lst_n_3_29",
+    "score": 4.5,
+    "price": 29,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 18,
+    "name": "West Lake Home Hotel & Spa",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/200s0f00000079cz9B50A_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-6245074/west-lake-home-hotel-and-spa/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=3&position=30&minprice=84&mproom=273269282&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK4-IV-A8DjBKMQkwcjFKBHItaljcxSjR1zzjOYrHIx1EzWuWtW0Ojg6d86-vAHWYtDgE8kxiFOGE8QQYQWNDsMIPx0tS_TBsZpRVE1Lo3hzrsYGQ-wMh8gjFESsHM3MLE3Ngs2dLYMM3EzMzYwsDIwNTQOM3CNCXF0MTcUONvx4MnrEYMHoxBbAaO5i5GjlEyXMzOfpEQwxk-2Esxhwa7KIbVrtuWdF_KIYm1LFM3zC8jqIARAPygyzrFAAAA&pnotax=6_718150000;560_034632&from_page=list&module=list&pctoken=60ef8997149b45e6a35ae139b0a56dd4&ltracelogid=6784736c931f46638020513f85dd1471&link=title#ctm_ref=lst_n_3_30",
+    "score": 4.3,
+    "price": 84,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 19,
+    "name": "Hong Ha Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/220q0s000000hkt43F515_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-713302/hong-ha-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=4&position=31&minprice=39&mproom=133624150&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAOOK5eIV-A8DjBKMQkwcjFIeHNce3bY3ULD4Jujoq_Loe4NogYOn5KMI8e2TixwCeCYxCnEyAMECf31HQRBjkZ224wzGa0e0NzKmvNv6e8NHZ4cdjEwnGNWlFJLMDVLT0lLMzC2SjU0MLAwsLI1NEy3NzY0TkwxNTA3TNBo6HzxhNWLwYAxiMzI1NjK0iJLhYg7zcxHcKTyRLeaPkb0Uc2iwi2JY7bptSfelHJJYyzJ1w_wyggoYAVYlDAW8AAAA&pnotax=6_718150000;257_3439864&from_page=list&module=list&pctoken=233c9d316d384a5fb2e176fe80c91508&ltracelogid=b70effd678c340808935a9773ab1451f&link=title#ctm_ref=lst_n_4_31",
+    "score": 4.1,
+    "price": 39,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 20,
+    "name": "Hanoi Focus Boutique Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/22020g00000083h6z9FDE_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-713093/hanoi-focus-boutique-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=4&position=32&minprice=30&mproom=271461111&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK5eIV-A8DjBKMQkwcjFIBHN-v7mhklNh069ldZovfgo7cWqvqVDdkOHge4Xh48dj-XIcAnkmMQpyHv2rcERPSdBRkAIJvIWqOMxhbD2tvZJz0XNq31c7FYQcj0wFGphOMclIKSeYGqWlpKWbmFsnGJgYWBhaWxqaJlubmxolJhiamhmkaDZ0PnrAaMXgwBrG5OZmaOJpEyXAxh_m5CO4UnsgW88fIXoo5NNhFMax23bak-1IOSaxlmbphfhlBBYwAPHzzV8QAAAA(&pnotax=6_718150000;197_504577&from_page=list&module=list&pctoken=53ea1e2ac9e6481baa300889a6fb1155&ltracelogid=b70effd678c340808935a9773ab1451f&link=title#ctm_ref=lst_n_4_32",
+    "score": 4.5,
+    "price": 30,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 21,
+    "name": "Royal Holiday Hanoi Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/220b0y000000mcqru75D5_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-712713/royal-holiday-hanoi-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=8&page=4&position=33&minprice=41&mproom=281363257&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAOPK4uIV-A8DjBKMQkwcjFKhHDvbprYxSlw6-uAYiwaXwVx2i1nRjkodnwsO6RU6eL7NOXBu0qFihwCeSYxCnB4Pq0TWtbs7CO6Qa30deMPNYQZj5wHtjYwrChneNc1zcdjByHSAkekEo6aUQpK5QWpaWoqZuUWysYmBhYGFpbFpoqW5uXFikqGJqWGaRkPngyesRgwejEFsbuamjkamUTJczKHBLoJhteu2Jd2XcpAC8RRhvCTWskzdML-MoAJGAAmZ_S_JAAAA&pnotax=6_718150000;274_922471&from_page=list&module=list&pctoken=e5187c75c31e48999aadeeb742c79626&ltracelogid=b70effd678c340808935a9773ab1451f&link=title#ctm_ref=lst_n_4_33",
+    "score": 4.8,
+    "price": 41,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 22,
+    "name": "A1 Hill Hanoi Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/220l0t000000inhcz46FE_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-6157865/a1-hill-hanoi-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=4&position=38&minprice=29&mproom=34594149&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAOOK4-IV-A8DjBKMQkwcjFKeHE937RcwULD4JuhoM2VT2L7mdAfPs2eAQCPbIYBnEqMQJwMQJDxWcxQEMbJeKTvOYFz55jvTRsbmIxc3FGvYOuxgZDrBKCulkGRukJqWlmJmbpFsbGJgYWBhaWyaaGlubpyYZGhiapim0dD54AmrEYMHYxCbs5GZhYFZlAwXc5ifi-BO4YlsMX-M7KWYQ4NdFMNq121Lui_lkMRalqkb5pcRVMAIAEtRlTS9AAAA&pnotax=6_718150000;188_1169847&from_page=list&module=list&pctoken=aba402088c7c4d5580f0e1f9801124a2&ltracelogid=b70effd678c340808935a9773ab1451f&link=title#ctm_ref=lst_n_4_38",
+    "score": 4.7,
+    "price": 29,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 23,
+    "name": "Danly Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/200e0i00000098umyB730_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-1171679/danly-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=4&position=39&minprice=35&mproom=333906894&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK5OIV-A8DjBKMQkwcjFI-HOfa58xnNFCw-CboGMZ8T9j0Ro6D56qPl3yTVhQ4BPBMYhTiZACCBmEdR0EQgy9Pw3EG4_2D7hsZf9TLy9s9cnTYwch4gJHxBKOylEKSuUFqWlqKmblFsrGJgYWBhaWxaaKlublxYpKhialhmkZD54MnrEYMHoxBbAbOrhaWFlEyXMxhfi6CO4UnssX8MbKXYg4NdlEMq123Lem-lEMSa1mmbphfRlABIwATWr1NwAAAAA((&pnotax=6_718150000;230_7564792&from_page=list&module=list&pctoken=f24bb5b29b974fc6adaff6dbb02acdaf&ltracelogid=b70effd678c340808935a9773ab1451f&link=title#ctm_ref=lst_n_4_39",
+    "score": 3.4,
+    "price": 35,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 24,
+    "name": "The Pearl Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/22090g0000007zc5q6353_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-2550831/the-pearl-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=4&position=40&minprice=34&mproom=248404271&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK5OIV-A8DjBKMQkwcjFI-HOs37SwzULD4JuhorHCtbN2nbAfPFxFTTlxRLnAI4JnEKMTJAARiJtqOgiDGitXqjjMY19-YzbiRsdTNK_NNsKPDDkamA4xMJxiVpBSSzA1S09JSzMwtko1NDCwMLCyNTRMtzc2NE5MMTUwN0zQaOh88YTVi8GAMYjM2czU0No-S4WIO83MR3Ck8kS3mj5G9FHNosItiWO26bUn3pRySWMsydcP8MoIKGAFZz8x_wAAAAA((&pnotax=6_718150000;223_5837969&from_page=list&module=list&pctoken=0099ee8f1c02498495278df7124a502f&ltracelogid=b70effd678c340808935a9773ab1451f&link=title#ctm_ref=lst_n_4_40",
+    "score": 3.9,
+    "price": 34,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 25,
+    "name": "Serenity Villa Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/200m0j000000adl3j9E1F_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-712339/serenity-villa-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=5&position=41&minprice=31&mproom=273269309&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK4uIV-A8DjBKMQkwcjFK-HHtbljcxGtxktFjk42i4u-nE39xMB8_riwtsueJzHQJ4JjEKccJ4ggwg8CDLYQbj5L3aGxm54s8vS-6wd9jByHSAkekEo7yUgqWlRZqhgVGKsZmJuYmZsYllskmyRaq5ZXKaiaGJsamBRmvngyesRgwejEFsxoZuBo5uUTJczM5-kRCzGT7YSzGHBrsohtWu25Z0X8ohibUsUzfMLyOogBEAq_BU-cEAAAA(&pnotax=6_718150000;203_4372294&from_page=list&module=list&pctoken=17322276f1d749e6a68e34823e12b3d3&ltracelogid=998f102d364746349c4c8e79cf414350&link=title#ctm_ref=lst_n_5_41",
+    "score": 4.1,
+    "price": 31,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 26,
+    "name": "Palmo Hotel & Apartment 2",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/200r0h0000008vownD0C4_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-4617487/palmo-hotel-and-apartment-2/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=8&page=5&position=42&minprice=29&mproom=326225630&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAOPK4OIV-A8DjBKMQkwcjFLBHPfmHp_NKLHp9Ou7zBpcBnPZLWZFO85fWpqaOCXdwXO16b30a7LZDgE8kxiFOFtfB-6QU3VwEJw1Ewgi7R1mMPa_msm0kfG6TrjwCm8bhx2MTCcYZaUULC0t0gwNjFKMzUzMTcyMTSyTTZItUs0tk9NMDE2MTQ00WjsfPGE1YvBgDGJzNDQwN3CMkuFiDg12EQyrXbct6b6UgxSIpwjjJbGWZeqG-WUEFTACANhPmZjHAAAA&pnotax=6_718150000;188_6368892&from_page=list&module=list&pctoken=83b0497d54e64b4da6e97285fe53667a&ltracelogid=998f102d364746349c4c8e79cf414350&link=title#ctm_ref=lst_n_5_42",
+    "score": 4.3,
+    "price": 29,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 27,
+    "name": "Hanoi Morning Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/220v0g0000007wcy262FB_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-712356/hanoi-morning-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=5&position=43&minprice=34&mproom=167721092&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK5-IV-A8DjBKMQkwcjFJBHC0f__hLfLr07BiLwU1Gi0U-jhKZMya09uQ4eKaBQFaBQwDPJEYhThhPkAEEHuQ7zGBcsld7I6ParawPMoqODjsYmQ4wMp1gVJJSsLS0SDM0MEoxNjMxNzEzNrFMNkm2SDW3TE4zMTQxNjXQaO188ITViMGDMYjNzdnF1Ng1SoaL2dkvEmI2wwd7KebQYBfFsNp125LuSzkksZZl6ob5ZQQVMAIAUTlRmcYAAAA(&pnotax=6_718150000;228_3913043&from_page=list&module=list&pctoken=10e8656220c7448bb0e6c289907ea956&ltracelogid=998f102d364746349c4c8e79cf414350&link=title#ctm_ref=lst_n_5_43",
+    "score": 4.1,
+    "price": 34,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 28,
+    "name": "Golden Sun Suites Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/fd/hotelintl/g3/M01/AE/0A/CggYGVXzTw-AdwD8AADHmE7UuOk866_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-1470439/golden-sun-suites-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=5&position=48&minprice=43&mproom=104079813&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK4OIV-A8DjBKMQkwcjFLeHEcPXzA0ULD4Juh4JV-0avLXQgfP-qw9Jcb7ShwCeCYxCnEyAIFktaGjIIjh9V7fcQbj8_uRGxkjr5pf_e_i5rCDkekAI9MJRm0pBUtLizRDA6MUYzMTcxMzYxPLZJNki1Rzy-Q0E0MTY1MDjdbOB09YjRg8GIPYDAws3Zwto2S4mMP8XAR3Ck9ki_ljZC_FHBrsohhWu25b0n0phyTWskzdML-MoAJGAN7OdDS_AAAA&pnotax=6_718150000;287_3485051&from_page=list&module=list&pctoken=28fe16aa762b44da86eb62c2a46296d1&ltracelogid=998f102d364746349c4c8e79cf414350&link=title#ctm_ref=lst_n_5_48",
+    "score": 4.8,
+    "price": 43,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 29,
+    "name": "Mai Charming Hotel & Spa",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/220q0s000000hkso98C7B_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-713814/mai-charming-hotel-and-spa/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=5&position=49&minprice=34&mproom=142032971&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK4OIV-A8DjBKMQkwcjFLeHKcb7jobKFh8E3T0_Xb-csOhbAdPzcrSPkaOAocAnkmMQpwMQGDAqu0oCGLcalJ3nMF47YT2RkbhD9kqnGaODjsYmQ4wMp1gVJJSsLS0SDM0MEoxNjMxNzEzNrFMNkm2SDW3TE4zMTQxNjXQaO188ITViMGDMYjNwtjIzMglSoaLOczPRXCn8ES2mD9G9lLMocEuimG167Yl3ZdySGIty9QN88sIKmAEALItnmK_AAAA&pnotax=6_718150000;222_078226&from_page=list&module=list&pctoken=9a644f86f52f434d913ac25b2126abdf&ltracelogid=998f102d364746349c4c8e79cf414350&link=title#ctm_ref=lst_n_5_49",
+    "score": 4.5,
+    "price": 34,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 30,
+    "name": "Splendid Star Boutique Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/hotel/475000/474704/a09bfc1d9d3e44f2a1d6317e948769eb_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-993546/splendid-star-boutique-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=5&position=50&minprice=40&mproom=268381786&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAOOK5eIV-A8DjBKMQkwcjFIeHLfu_Kk3ULD4Jugo7nvowddZBQ6eGTNMeWZJFDsE8ExiFOJkAIKz4gaOgiDGvT_ajjMYuy7ZbGTsipoVrfjW2WEHI9MJRg0pBUtLizRDA6MUYzMTcxMzYxPLZJNki1Rzy-Q0E0MTY1MDjdbOB09YjRg8GIPYLAzcjFwso2S4mMP8XAR3Ck9ki_ljZC_FHBrsohhWu25b0n0phyTWskzdML-MoAJGAGMRVN-8AAAA&pnotax=6_718150000;265_6850288&from_page=list&module=list&pctoken=d59fe4369d344638b4b9369e84dce8ae&ltracelogid=998f102d364746349c4c8e79cf414350&link=title#ctm_ref=lst_n_5_50",
+    "score": 4.3,
+    "price": 40,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 31,
+    "name": "Artisan Lakeview Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/22050t000000ioslyFAE3_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-1509951/artisan-lakeview-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=6&position=51&minprice=49&mproom=104173158&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK4OIV-A8DjBKMQkwcjFLeHM_mXDM0ULD4Jui42LyxTzqxxMHzm0ZM_6HOcocAnkmMQpwMQKBwzdhREMRY6GToOINx_5SYjYzTuq6zWbh6OuxgZDrAyHSC0VBKIdXUzNDA2DjVOMnEzMTcMNXCJNHC2MgoKdHcNCnRIMVUo7vzwRNWIwYPxiA2SwtLNxejKBku5jA_F8GdwhPZYv4Y2Usxhwa7KIbVrtuWdF_KIYm1LFM3zC8jqIARANfjY3e_AAAA&pnotax=6_718150000;326_0692277&from_page=list&module=list&pctoken=64550debb7d141c9b3c6eef879b8adc9&ltracelogid=e561033e3b46471e84a8322ba75ba0d5&link=title#ctm_ref=lst_n_6_51",
+    "score": 4.3,
+    "price": 49,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 32,
+    "name": "Eiffel Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/200q12000000rruxhB7F8_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-713179/eiffel-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=6&position=52&minprice=22&mproom=245885898&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK4OIV-A8DjBKMQkwcjFLeHKeuzy81ULD4JuhYLztZ4bt6koOnos_s3ek_UhwCeCYxCnEyAIHaGkVHQRDD4KCc4wzG24e1NzKKljreaGk2c9jByHSAkekEo5iUQqqpmaGBsXGqcZKJmYm5YaqFSaKFsZFRUqK5aVKiQYqpRnfngyesRgwejEFsLo6OZmZuUTJczGF-LoI7hSeyxfwxspdiDg12UQyrXbct6b6UQxJrWaZumF9GUAEjANeu8Ji_AAAA&pnotax=6_718150000;145_2489169&from_page=list&module=list&pctoken=26e3517ac5d84b65b0e58815b7ca6341&ltracelogid=e561033e3b46471e84a8322ba75ba0d5&link=title#ctm_ref=lst_n_6_52",
+    "score": 4.1,
+    "price": 22,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 33,
+    "name": "Emerald Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/220w0g0000008064hB705_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-707298/emerald-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=6&position=53&minprice=52&mproom=104448511&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK4OIV-A8DjBKMQkwcjFLeHP-bnxsaKFh8E3RM9ZqwbVpWqYNnzvfE4pQ9FQ4BPJMYhTgZgKDzhomjIIhRrWzkOIPx0VTtjYzGGb3Pcvu8HHYwMh1gZDrBaCKlkGpqZmhgbJxqnGRiZmJumGphkmhhbGSUlGhumpRokGKq0d354AmrEYMHYxCbhYmBqaFhlAwXc5ifi-BO4YlsMX-M7KWYQ4NdFMNq121Lui_lkMRalqkb5pcRVMAIAMUX8Ky_AAAA&pnotax=6_718150000;342_6617952&from_page=list&module=list&pctoken=45c6d8a45bfd43c5a04c7d42893235b2&ltracelogid=e561033e3b46471e84a8322ba75ba0d5&link=title#ctm_ref=lst_n_6_53",
+    "score": 4.1,
+    "price": 52,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 34,
+    "name": "Brandi Fuji Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/200j0o000000emqb67F39_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-8684317/brandi-fuji-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=6&position=58&minprice=49&mproom=135132142&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK5OIV-A8DjBKMQkwcjFI-HO-eb3cwULD4Juj4xT1pclpciYNn2JTtJxa1lTsE8ExiFOJkAIK6y8aOgiAGn4yR4wzGuW2TWDYyiiavWvXQ0dNhByPTAUamE4yGUgqppmaGBsbGqcZJJmYm5oapFiaJFsZGRkmJ5qZJiQYpphrdnQ-esBoxeDAGsTkZGTubuEbJcDGH-bkI7hSeyBbzx8heijk02EUxrHbdtqT7Ug5JrGWZumF-GUEFjACUf_cUwAAAAA((&pnotax=6_718150000;325_9000429&from_page=list&module=list&pctoken=0beb9b72ff86457fa60e7206cbb7c96c&ltracelogid=e561033e3b46471e84a8322ba75ba0d5&link=title#ctm_ref=lst_n_6_58",
+    "score": 4.5,
+    "price": 49,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 35,
+    "name": "Sen 2 Hotel Hanoi",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/22030y000000mht9l0308_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-2864650/sen-2-hotel-hanoi/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=6&position=59&minprice=46&mproom=103516765&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK5OIV-A8DjBKMQkwcjFI-HHenrDM0ULD4JugoeDfiq5xJsYNn6-vAHXJ6ZQ4BPJMYhTgZgEBjo5GjIIhxW8jQcQZj15t1jBsZFxWfEP933t1hByPTAUamE4x6UgqppmaGBsbGqcZJJmYm5oapFiaJFsZGRkmJ5qZJiQYpphrdnQ-esBoxeDAGsZmZmRqZOkbJcDGH-bkI7hSeyBbzx8heijk02EUxrHbdtqT7Ug5JrGWZumF-GUEFjACxlX21wAAAAA((&pnotax=6_718150000;307_2575582&from_page=list&module=list&pctoken=dff738d8b97942869d744310b727b897&ltracelogid=e561033e3b46471e84a8322ba75ba0d5&link=title#ctm_ref=lst_n_6_59",
+    "score": 4.5,
+    "price": 46,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 36,
+    "name": "Church Boutique Hotel Hang Gai Hanoi",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/220j0i0000009l28f8F9B_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-993554/church-boutique-hotel-hang-gai-hanoi/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=6&position=60&minprice=54&mproom=184893041&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK4eIV-A8DjBKMQkwcjFL-HB__TImQ2HTr2V1mi0U-jo_8jN9dDy1z8HwTuEOudX2lQwDPJEYhThhPkAEEPlQ4zGCcdMlmI-OhI1YtmWe9HHYwMh1gZDrBaCalkGpqZmhgbJxqnGRiZmJumGphkmhhbGSUlGhumpRokGKq0d354AmrEYMHYxCbiZOLq4VllAwXs7NfJMRshg_2UsyhwS6KYbXrtiXdl3JIYi3L1A3zywgqYAQABp9YccMAAAA(&pnotax=6_718150000;357_3652174&from_page=list&module=list&pctoken=1d0b1c4bcdb444e59ca28b2a96e3bbfd&ltracelogid=e561033e3b46471e84a8322ba75ba0d5&link=title#ctm_ref=lst_n_6_60",
+    "score": 4,
+    "price": 54,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 37,
+    "name": "Tryst Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/fd/hotelintl/g4/M05/B2/11/CggYHFXzUrGAR_LoAACugOlalys408_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-2832193/tryst-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=8&page=7&position=61&minprice=22&mproom=268725720&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK4uIV-A8DjBKMQkwcjFK-HDduT2xg1OCy-C3oGCdi--Hj1kQHzwv1_HHWlSkOATyTGIU4H1aJrHNPtHAQ3CHX-jpwh4nDDMaD79YwbmScFD05z1vKzGEHI9MBRqYTjGJSCiZpFqnGqakmxsZGKSZGKeYW5qnGSQYmZmZmBuaWScapGhM6HzxhNWLwYAxiMzJ3MbZwiZLhYg4NdhEMq123Lem-lIMUiKcI4yWxlmXqhvllBBUwAgAj78U3wQAAAA((&pnotax=6_718150000;141_6857835&from_page=list&module=list&pctoken=06238e0ff0144139bcda81c57e77fc48&ltracelogid=4f8e3ee4332d42d787e3b04666079b3e&link=title#ctm_ref=lst_n_7_61",
+    "score": 4.1,
+    "price": 22,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 38,
+    "name": "Rising Dragon Villa Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/220t0f0000007gmcc4C6F_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-2192564/rising-dragon-villa-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=7&position=62&minprice=32&mproom=170332151&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK4uIV-A8DjBKMQkwcjFK-HN_nzwk0uMloscjH8cf8hSqel7IcPA9_1Yjp_5XnEMAziVGIE8YTZACBhhyHGYxbXrYybmQs2RR1T2Khg8MORqYDjEwnGBWkFEzSLFKNU1NNjI2NUkyMUswtzFONkwxMzMzMDMwtk4xTNSZ0PnjCasTgwRjEZmFp5ORkGCXDxezsFwkxnOGDvRRzaLCLYljtum1J96UckljLMnXD_DKCChgB5vDphsEAAAA(&pnotax=6_718150000;214_5714286&from_page=list&module=list&pctoken=32587e137ab84a63bc4e52a99dbc5daa&ltracelogid=4f8e3ee4332d42d787e3b04666079b3e&link=title#ctm_ref=lst_n_7_62",
+    "score": 4.6,
+    "price": 32,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 39,
+    "name": "Iris Legend Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/20090x000000lb9ioFACE_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-713186/iris-legend-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=7&position=63&minprice=131&mproom=192042781&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK5OIV-A8DjBKMQkwcjFI-HHPXnYw2ULD4JujoYh62lz2_28Fz1kwgWN_vEMAziVGIkwEIPmz2chQE0g3qNu6OMxgfHdbeyBjayVvozpTosIOR5QAjywnGZkYpBZM0i1Tj1FQTY2OjFBOjFHML81TjJAMTMzMzA3PLJONUjQmdD56wGjF4MAaxGRk5Oxq6RslwMYf5uQjuFJ7IFvPHyF6KOTTYRTGsdt22pPtSDkmsZZm6YX4ZQQWMANBt4s_AAAAA&pnotax=6_718150000;877_8787791&from_page=list&module=list&pctoken=cbe27503686542ffa1cedf58bc3da724&ltracelogid=4f8e3ee4332d42d787e3b04666079b3e&link=title#ctm_ref=lst_n_7_63",
+    "score": 4.3,
+    "price": 131,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 40,
+    "name": "Sunny Hotel 2",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/22080u000000j9y7vF502_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-2192550/sunny-hotel-2/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=7&position=68&minprice=27&mproom=104695664&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK5OIV-A8DjBKMQkwcjFI-HB_6vhkaKFh8E3QUtjn_knl5moPnvvlS-nc1sxwCeCYxCnEyAEEHj5qjIIhxRVnFcQbjspetjBsZY2WjtU6J2TjsYGQ6wMh0glFaSsEkzSLVODXVxNjYKMXEKMXcwjzVOMnAxMzMzMDcMsk4VWNC54MnrEYMHoxBbK6uRmYuplEyXMxhfi6CO4UnssX8MbKXYg4NdlEMq123Lem-lEMSa1mmbphfRlABIwAEytZgwAAAAA((&pnotax=6_718150000;181_2192277&from_page=list&module=list&pctoken=700a244c79e14bdea24c4ea482de77c6&ltracelogid=4f8e3ee4332d42d787e3b04666079b3e&link=title#ctm_ref=lst_n_7_68",
+    "score": 3.8,
+    "price": 27,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 41,
+    "name": "Oriental Palace",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/220b0u000000jgk2a02D5_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-5468037/oriental-palace/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=7&position=69&minprice=41&mproom=105073986&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK5OIV-A8DjBKMQkwcjFI-HIdm9RoZKFh8E3RceINrltm7AgfPPSWTJVj6ih0CeCYxCnEyAMGBKgNHQRDjj5Se4wzG1vtnmTYy3n7g8iX7n4vDDkamA4xMJxg1pRRM0ixSjVNTTYyNjVJMjFLMLcxTjZMMTMzMzAzMLZOMUzUmdD54wmrE4MEYxGZh6mjo6holw8Uc5uciuFN4IlvMHyN7KebQYBfFsNp125LuSzkksZZl6ob5ZQQVMAIA7Gnv4MAAAAA(&pnotax=6_718150000;270_8883305&from_page=list&module=list&pctoken=a5586636d4f747859ddce34737ab7f26&ltracelogid=4f8e3ee4332d42d787e3b04666079b3e&link=title#ctm_ref=lst_n_7_69",
+    "score": 4.4,
+    "price": 41,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 42,
+    "name": "Hanoi Brilliant Hotel and Spa",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/220f0u000000j9gppAA1C_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-2143606/hanoi-brilliant-hotel-and-spa/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=7&position=70&minprice=74&mproom=134453141&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK5OIV-A8DjBKMQkwcjFI-HFPX9zkYKFh8E3Q85Xn2cN67OgdPx6ZHxyWmNzoE8ExiFOJkAIIbS20dBUGM-3ssHWcwfnvVxLiR8e6re_rc_wMcdjAyHWBkOsHoJaVgkmaRapyaamJsbJRiYpRibmGeapxkYGJmZmZgbplknKoxofPBE1YjBg_GIDZnSyMjZ8coGS7mMD8XwZ3CE9li_hjZSzGHBrsohtWu25Z0X8ohibUsUzfMLyOogBEAEPaqTsAAAAA(&pnotax=6_718150000;494_9020422&from_page=list&module=list&pctoken=358ffa9fff384b9bb9f8b540f0e95c53&ltracelogid=4f8e3ee4332d42d787e3b04666079b3e&link=title#ctm_ref=lst_n_7_70",
+    "score": 4.6,
+    "price": 74,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 43,
+    "name": "Camellia Boutique Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/220w0r000000hib2pFBBD_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-707260/camellia-boutique-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=8&page=8&position=71&minprice=27&mproom=326299872&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAOPK4uIV-A8DjBKMQkwcjFKhHA8enp7NKNE0df1dZg0ug7nsFrOiHZu-z3dbfTXVwbPEUneinEymQwDPJEYhzjQQeGbrIOjxsEpkHbutwwzGPVO1NzKmH9wSMsvYymEHI-MBRsYTjNJSCkkWSaZmFoaJyQZmySZpqSYWKRZpqSnJJibmyQZp5skWGlM6HzxhNWLwYAxiMzM3NHCzjJLhYg4NdhEMq123Lem-lIMUiKcI4yWxlmXqhvllBBUwAgBdtJ2AyQAAAA((&pnotax=6_718150000;174_6771577&from_page=list&module=list&pctoken=df4c59ca40754a7bbf094e126210a013&ltracelogid=b8b5681ac06c4fe48d8fedc447c0f7c8&link=title#ctm_ref=lst_n_8_71",
+    "score": 4.3,
+    "price": 27,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 44,
+    "name": "Luxury Backpakers Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/200w0h0000008rbe13197_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-7770546/luxury-backpakers-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=8&position=72&minprice=10&mproom=135877289&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK5OIV-A8DjBKMQkwcjFI-HCuXPnUwULD4Jui4_UFY98wJ_g6eizhFNnZYBTkE8ExiFOJkAIKAnXyOgiDGjd1cjjMYNy2-xbyR0eSUS_T9icoOOxgZDzAynmDkklJIskgyNbMwTEw2MEs2SUs1sUixSEtNSTYxMU82SDNPttCY0vngCasRgwdjEJu5oYuBoVuUDBdzmJ-L4E7hiWwxf4zspZhDg10Uw2rXbUu6L-WQxFqWqRvmlxFUwAgAQfrJ7sAAAAA(&pnotax=6_718150000;63_1296858&from_page=list&module=list&pctoken=2accb18406f14bf7a9203c1f2dd5b9f1&ltracelogid=b8b5681ac06c4fe48d8fedc447c0f7c8&link=title#ctm_ref=lst_n_8_72",
+    "score": 4.4,
+    "price": 10,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 45,
+    "name": "Sao Bang Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/200k0m000000dglw38B08_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-8159385/sao-bang-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=8&page=8&position=73&minprice=26&mproom=326241739&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAOPK4OIV-A8DjBKMQkwcjFLBHKdnn5jNKLFp6YbnzBpcBnPZLWZFO0ZPtH0ubJDq4Kl0Wbd2Q2yGQwDPJEYhztbXgTvkWG0dBN8A6VZtG4cZjDMbPzFvZNy-XmX9kxxLhx2MTCcYpaQUkiySTM0sDBOTDcySTdJSTSxSLNJSU5JNTMyTDdLMky00pnQ-eMJqxODBGMTmaOrk5uwYJcPFHBrsIhhWu25b0n0pBykQTxHGS2Ity9QN88sIKmAEANJApW7HAAAA&pnotax=6_718150000;169_5024296&from_page=list&module=list&pctoken=fdf2701875e9467c93360b8aa62e0055&ltracelogid=b8b5681ac06c4fe48d8fedc447c0f7c8&link=title#ctm_ref=lst_n_8_73",
+    "score": 4.3,
+    "price": 26,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 46,
+    "name": "Centre Point Hanoi Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/220l0g0000007zpxl7069_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-4340470/centre-point-hanoi-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=8&position=78&minprice=54&mproom=103730401&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK5OIV-A8DjBKMQkwcjFI-HA9n7jY0ULD4JugYwLdhwayoMgfPWMkQ6TkXKx0CeCYxCnEyAIHGIVNHQRDj0DsjxxmM3752MG1kTI1QuMq9w9thByPTAUamE4xmUgpJFkmmZhaGickGZskmaakmFikWaakpySYm5skGaebJFhpTOh88YTVi8GAMYjMwtTAxNomS4WIO83MR3Ck8kS3mj5G9FHNosItiWO26bUn3pRySWMsydcP8MoIKGAEIp-OWwAAAAA((&pnotax=6_718150000;357_6627509&from_page=list&module=list&pctoken=50e2589ba71c43c99e6fcda6ee6ca411&ltracelogid=b8b5681ac06c4fe48d8fedc447c0f7c8&link=title#ctm_ref=lst_n_8_78",
+    "score": 4.4,
+    "price": 54,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 47,
+    "name": "Hanoi Era Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/22060g0000007ynxeD996_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-712612/hanoi-era-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=8&page=8&position=79&minprice=40&mproom=326347610&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAOPK4uIV-A8DjBKMQkwcjFKhHLeunZvNKHHp-Zu7zBpcBnPZLWZFOwrGOBy-Vl7g4Onqo_bL7EORQwDPJEYhzrNngKDHzUGw9XXgDrmnrg4zGJfs197IqHBVZjvjYWeHHYxMBxiZTjBqSCkkWSSZmlkYJiYbmCWbpKWaWKRYpKWmJJuYmCcbpJknW2hM6XzwhNWIwYMxiM3CxdjSzC1Khos5NNhFMKx23bak-1IOUiCeIoyXxFqWqRvmlxFUwAgAFuDBV8kAAAA(&pnotax=6_718150000;263_4899323&from_page=list&module=list&pctoken=163de27e0f3349aea84fe02bf200c1d2&ltracelogid=b8b5681ac06c4fe48d8fedc447c0f7c8&link=title#ctm_ref=lst_n_8_79",
+    "score": 4.4,
+    "price": 40,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 48,
+    "name": "Lenid Hanoi Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/200q0b0000005q1ha200E_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-713165/lenid-hanoi-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=8&position=80&minprice=42&mproom=209040881&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAOOK4-IV-A8DjBKMQkwcjFKeHB9fX0u2-C3oKMdyWf6Cf6GDp1LRr6p9_4odAngmMQpxMgDBgZsGjoIgRsJSHccZjGcPa29kvNv59EZRuavDDkbGA4yMJxi1pBSSLJJMzSwME5MNzJJN0lJNLFIs0lJTkk1MzJMN0syTLTSmdD54wmrE4MEYxGZq7OJs5hIlw8Uc5uciuFN4IlvMHyN7KebQYBfFsNp125LuSzkksZZl6ob5ZQQVMAIAkrfmYb0AAAA(&pnotax=6_718150000;276_6406918&from_page=list&module=list&pctoken=582c90cb80364659aa0a17109d3650b9&ltracelogid=b8b5681ac06c4fe48d8fedc447c0f7c8&link=title#ctm_ref=lst_n_8_80",
+    "score": 4,
+    "price": 42,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 49,
+    "name": "Sakura Hotel 3",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/20090k000000b5sus82AB_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-7622190/sakura-hotel-3/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=9&position=81&minprice=42&mproom=106337438&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK5OIV-A8DjBKMQkwcjFI-HPNW3jIyULD4JugoG5Vibd9b6OB55c9z-c2uJQ4BPJMYhTgZgKBH1NBREMQ4ZqrvOINx3ZyLzBsZd4nKqsw_7Oqwg5HxACPjCUYtKQXzpDQTExPzxOS05BSTtFQTCwNzY0Mzk1SDZFNDgyQTY41pnQ-esBoxeDAGsTkZm5obmEXJcDGH-bkI7hSeyBbzx8heijk02EUxrHbdtqT7Ug5JrGWZumF-GUEFjAAlJylQwAAAAA((&pnotax=6_718150000;280_8279375&from_page=list&module=list&pctoken=5249333124e54c3bb8239a6f8f5bb8b8&ltracelogid=7bf4447acfcd4fe48073164e0c510b43&link=title#ctm_ref=lst_n_9_81",
+    "score": 3.9,
+    "price": 42,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 50,
+    "name": "Hotel le Carnot",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/220p0g0000007ytf05674_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-713758/hotel-le-carnot/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=9&position=82&minprice=47&mproom=316590438&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK5eIV-A8DjBKMQkwcjFIBHM8m_Z7GKLHpx9lHzAYH2Cw6DR2vLy6w5QovdvA8_FUjpj-szCGAZxKjECeMJ8gAAhtKHWYwzjuhvZExpv_QV40_7g47GJlOMOpLKZgnpZmYmJgnJqclp5ikpZpYGJgbG5qZpBokmxoaJJkYa0zrfPCE1YjBgzGIzdjSzNTYNUqGi9nZLxJiMMMHeynm0GAXxbDadduS7ks5JLGWZeqG-WUEFTACAKtrT8bEAAAA&pnotax=6_718150000;309_44&from_page=list&module=list&pctoken=856acdff70e2416286bd13bd871a43a2&ltracelogid=7bf4447acfcd4fe48073164e0c510b43&link=title#ctm_ref=lst_n_9_82",
+    "score": 4.4,
+    "price": 47,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 51,
+    "name": "Maro Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/22090r000000gzk6o0885_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-6337261/maro-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=9&position=83&minprice=61&mproom=105598533&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK5OIV-A8DjBKMQkwcjFI-HEfnrDUyULD4Jujow8HjcTG00sHzxsd4hRMXahwCeCYxCnEyAME6DwtHQRDjnIip4wzGt0-bmDcyJvrMP7TturfDDkamA4xMJxhtpRTMk9JMTEzME5PTklNM0lJNLAzMjQ3NTFINkk0NDZJMjDWmdT54wmrE4MEYxOZo6WJu5Bolw8Uc5uciuFN4IlvMHyN7KebQYBfFsNp125LuSzkksZZl6ob5ZQQVMAIAaN3JYcAAAAA(&pnotax=6_718150000;405_3635941&from_page=list&module=list&pctoken=cfc6c309111a48b0912414b03aff8eb1&ltracelogid=7bf4447acfcd4fe48073164e0c510b43&link=title#ctm_ref=lst_n_9_83",
+    "score": 4.4,
+    "price": 61,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 52,
+    "name": "The Art Classic Hotel & Spa",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/200h0n000000e2ysqCD35_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-13675790/the-art-classic-hotel-and-spa/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=8&page=9&position=88&minprice=37&mproom=328995075&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAOPK4OIV-A8DjBKMQkwcjFLBHM2LPsxhlNi0dMNzZg0ug7nsFrOiHf9umCJdvSjPwbP_zX393LmFDgE8kxiFOGfNBIKfLg6CtlzXFxfEujjMYOy7dYhtI-OpuRMEahOdHHYwMp1gVJVSME9KMzExMU9MTktOMUlLNbEwMDc2NDNJNUg2NTRIMjHWmNb54AmrEYMHYxCbk7mhqZlTlAwXc2iwi2BY7bptSfelHKRAPEUYL4m1LFM3zC8jqIARAM5RJQfHAAAA&pnotax=6_718150000;245_0775278&from_page=list&module=list&pctoken=43f227517ecf4cd19c398441c386c556&ltracelogid=7bf4447acfcd4fe48073164e0c510b43&link=title#ctm_ref=lst_n_9_88",
+    "score": 4.3,
+    "price": 37,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 53,
+    "name": "Ha Noi Suji Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/220a0u000000jdqy832F0_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-11624418/ha-noi-suji-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=9&position=89&minprice=26&mproom=115574399&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK5OIV-A8DjBKMQkwcjFI-HP97-swNFCy-CToGMxfpaS1KdfCsz9pTMvlPhkMAzyRGIU4GIFjAp-ooCGL0BCk5zmB8tP8o60bGZMtgI6_LVg47GJkOMDKdYJSSUjBPSjMxMTFPTE5LTjFJSzWxMDA3NjQzSTVINjU0SDIx1pjW-eAJqxGDB2MQm4WpubmTa5QMF3OYn4vgTuGJbDF_jOylmEODXRTDatdtS7ov5ZDEWpapG-aXEVTACADdmqgDwAAAAA((&pnotax=6_718150000;173_0676491&from_page=list&module=list&pctoken=247dd6ec4843492ca0212d73405e2c92&ltracelogid=7bf4447acfcd4fe48073164e0c510b43&link=title#ctm_ref=lst_n_9_89",
+    "score": 4.2,
+    "price": 26,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 54,
+    "name": "Merci Hotel",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/2n0q0i00000099hdt3AC7_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-1171767/merci-hotel/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=9&position=90&minprice=68&mproom=104613573&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK4OIV-A8DjBKMQkwcjFLeHEd7PxoaKFh8E3Q8un5zjUR4jYOnx8MqkXXeDQ4BPJMYhTgZgMCh3NpREMaYwbj9kPtGRlt_o418jIEOOxiZDzAyn2B0kVIwT0ozMTExT0xOS04xSUs1sTAwNzY0M0k1SDY1NEgyMdaY1vngCasRgwdjEJuhk6GLqUmUDBdzmJ-L4E7hiWwxf4zspZhDg10Uw2rXbUu6L-WQxFqWqRvmlxFUwAgAZAsH2L8AAAA(&pnotax=6_718150000;453_4434783&from_page=list&module=list&pctoken=847e81bacc8c492aa7905f8cf332e31f&ltracelogid=7bf4447acfcd4fe48073164e0c510b43&link=title#ctm_ref=lst_n_9_90",
+    "score": 3.6,
+    "price": 68,
+    "priceCurrency": "US$"
+  },
+  {
+    "pos": 55,
+    "name": "Chio Hotel and Apartment Ha Noi",
+    "level": 3,
+    "image": "https://dimg04.c-ctrip.com/images/22090u000000jilw2A960_R_180_270_R5_D.jpg",
+    "detail": "https://vn.trip.com/hotels/hanoi-hotel-detail-6150611/chio-hotel-and-apartment-ha-noi/?checkin=2019-03-24&checkout=2019-03-25&hotelname=&display=H%C3%A0%20N%E1%BB%99i%20(Hanoi)%2C%20Vi%E1%BB%87t%20Nam&adult=1&children=0&ages=&city=286&label=YE1SJGSgjUOcLQ0_fh0iJA&salestype=0&page=10&position=91&minprice=23&mproom=52791208&mincurr=USD&HighPrice=-1&LowPrice=-1&hoteluniquekey=H4sIAAAAAAAEAONK5eIV-A8DjBKMQkwcjFIBHCv6p0lKbLr17C6zxW9BR3Z-vYo3u5IcPO80nOdXXpTqEMAziVGIkwEIDKyVHAVBDIfNio4zGC9v_s60kbFBpmPvFktzhx2MTAcYmU4wikspGJilGZqnpiabpSZamiSmmSQZGJolGRuaG5snmpqmGhpqzOx88ITViMGDMYjNxMLNzdE5SoaLOczPRXCn8ES2mD9G9lLMocEuimG167Yl3ZdySGIty9QN88sIKmAEAM2jK77EAAAA&pnotax=6_718150000;149_8413659&from_page=list&module=list&pctoken=f65f345a085147d8a7b8c5e97afb3738&ltracelogid=06f17eec6ea94af4b016b31737a55e11&link=title#ctm_ref=lst_n_10_91",
+    "score": 2.5,
+    "price": 23,
+    "priceCurrency": "US$"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "crawler data from websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tieunt97 <tieunt.bk97@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "crawler": "^1.2.0",
+    "lodash": "^4.17.11",
+    "puppeteer": "^1.13.0",
+    "request": "^2.88.0",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
