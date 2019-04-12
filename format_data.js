@@ -18,7 +18,7 @@ function formatData(path) {
 }
 
 files = [
-  "./danang_hotel.json"
+  // "./danang_hotel.json" OK
   //   "./hanoi_hotel.json", OK
   //   "./ho_chi_minh.json" OK
 ];
